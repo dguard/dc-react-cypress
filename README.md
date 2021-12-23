@@ -10,7 +10,7 @@
 
 | Service | Repo |
 | --- | --- |
-| Front 📦 | [dc-react-cypress](https://github.com/dguard/dc-react-cypress) |
+| Front 📦 | dc-react-cypress (you are inside) |
 
 ## Captures
 <p align="center">
@@ -24,7 +24,6 @@
 
 ## Installation
 
-Update `.env` file  based on `.env.sample`
 
 ```bash
 $ yarn
