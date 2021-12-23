@@ -46,7 +46,7 @@ React is a JavaScript library for building user interfaces. [Read more here](htt
 ## Stay in touch
 
 - Contributor: [Alexander Serditov](https://cv.digitallyconstructed.ru/)
-- Forked from [Randal Vance Cunanan](https://github.com/randalvance/react-cypress-starter)
+- Forked from: [Randal Vance Cunanan](https://github.com/randalvance/react-cypress-starter)
 ## License
 
   React is [MIT licensed](LICENSE).
